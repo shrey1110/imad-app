@@ -1,5 +1,5 @@
 console.log('Loaded!');
-var img=getelementbyId('pic');
+var img=getElementbyId('pic');
 img.onclick= function () {
     
 img.style.marginLeft ='100px';
